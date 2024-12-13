@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botiga>
+	<productes>
+		<prod>
+			<codiprod>1</codiprod>
+			<nom categoria="solanacies">petunia</nom>
+			<descripcio>flor rosa </descripcio>
+			<preu>25</preu>
+			<disponibilitat>esgotat</disponibilitat>
+			<img>
+				<url>
+					https://espores.org/wp-content/uploads/media/k2/items/src/c987a1b31fd3f1f08322280ca0954f48.jpg
+				</url>
+			</img>
+		</prod>
+		<prod>
+			<codiprod>2</codiprod>
+			<nom categoria="suculenta">aloevera</nom>
+			<descripcio>Planta carnosa amb punxes laterals</descripcio>
+			<preu>40</preu>
+			<disponibilitat>estoc</disponibilitat>
+			<img>
+				<url>
+				https://www.kew.org/sites/default/files/styles/original/public/2020-04/Aloe_Vera.jpg.webp?itok=nuAtuuf1
+				</url>
+			</img>
+		</prod>
+		<prod>
+			<codiprod>3</codiprod>
+			<nom categoria="aracies">diefembaquia</nom>
+			<descripcio>fulles grans i bicolor</descripcio>
+			<preu>15</preu>
+			<disponibilitat>estoc</disponibilitat>
+			<img>
+				<url>
+					https://www.picturethisai.com/image-handle/website_cmsname/image/1080/348113451608342528.jpeg?x-oss-process=image/format,webp/resize,s_300&v=1.0
+				</url>
+			</img>
+		</prod>
+		<prod>
+			<codiprod>4</codiprod>
+			<nom categoria="papaveracies">amapola</nom>
+			<descripcio>petals fins i vermells</descripcio>
+			<preu>38</preu>
+			<disponibilitat>estoc</disponibilitat>
+			<img>
+				<url>
+					https://img.freepik.com/fotos-premium/flor-amapola-opio-latin-papaver-somniferum-es-amapola-flor-roja_610882-6324.jpg
+				</url>
+			</img>
+		</prod>
+	</productes>
+</botiga>
