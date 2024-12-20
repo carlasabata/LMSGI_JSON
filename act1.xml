@@ -5,8 +5,10 @@
 			<codiprod>1</codiprod>
 			<nom categoria="solanacies">petunia</nom>
 			<descripcio>flor rosa </descripcio>
-			<preu>25</preu>
-			<disponibilitat>esgotat</disponibilitat>
+			<preu estoc="40">25</preu>
+			<floracio> </floracio>
+			<mida></mida>
+			<rec></rec>
 			<img>
 				<url>
 					https://espores.org/wp-content/uploads/media/k2/items/src/c987a1b31fd3f1f08322280ca0954f48.jpg
@@ -15,10 +17,9 @@
 		</prod>
 		<prod>
 			<codiprod>2</codiprod>
-			<nom categoria="suculenta">aloevera</nom>
+			<nom categoria="suculenta">aloe vera</nom>
 			<descripcio>Planta carnosa amb punxes laterals</descripcio>
-			<preu>40</preu>
-			<disponibilitat>estoc</disponibilitat>
+			<preu estoc="300">40</preu>
 			<img>
 				<url>
 				https://www.kew.org/sites/default/files/styles/original/public/2020-04/Aloe_Vera.jpg.webp?itok=nuAtuuf1
@@ -29,8 +30,7 @@
 			<codiprod>3</codiprod>
 			<nom categoria="aracies">diefembaquia</nom>
 			<descripcio>fulles grans i bicolor</descripcio>
-			<preu>15</preu>
-			<disponibilitat>estoc</disponibilitat>
+			<preu estoc="18">15</preu>
 			<img>
 				<url>
 					https://www.picturethisai.com/image-handle/website_cmsname/image/1080/348113451608342528.jpeg?x-oss-process=image/format,webp/resize,s_300&v=1.0
@@ -41,11 +41,32 @@
 			<codiprod>4</codiprod>
 			<nom categoria="papaveracies">amapola</nom>
 			<descripcio>petals fins i vermells</descripcio>
-			<preu>38</preu>
-			<disponibilitat>estoc</disponibilitat>
+			<preu estoc="29">37</preu>
 			<img>
 				<url>
 					https://img.freepik.com/fotos-premium/flor-amapola-opio-latin-papaver-somniferum-es-amapola-flor-roja_610882-6324.jpg
+				</url>
+			</img>
+		</prod>
+		<prod>
+			<codiprod>5</codiprod>
+			<nom categoria="lamiacies">albahaca</nom>
+			<descripcio>planta aromatica per ús culinari</descripcio>
+			<preu estoc="9">18</preu>
+			<img>
+				<url>
+					https://www.vestabarcelona.com/content/images/size/w1304/format/webp/2024/08/cuidadosdelaalbahacaenmaceta.jpg
+				</url>
+			</img>
+		</prod>
+		<prod>
+			<codiprod>6</codiprod>
+			<nom categoria="asparagacies">jacint</nom>
+			<descripcio>bulb floral normalment blau amb petites flors</descripcio>
+			<preu estoc="16">25</preu>
+			<img>
+				<url>
+					https://st3.depositphotos.com/18636912/31811/i/450/depositphotos_318117694-stock-photo-large-flower-bed-with-colorful.jpg
 				</url>
 			</img>
 		</prod>

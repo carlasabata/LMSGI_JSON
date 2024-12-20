@@ -1,0 +1,72 @@
+{
+    "devices": [
+        {
+            "type": "computer",
+            "name": "Matebook",
+            "company": "Huawei",
+            "inches": "13",
+            "stock": true,
+            "price":
+            {
+                "cost": "780",
+                "currency": "€",
+                "discount": null
+            },
+            "internal_info": "C:/Documents/files/matebook.json",
+            "slogan": null,
+            "characteristics": null
+        }
+        {
+            "type": "computer",
+            "name": "Titan",
+            "company": "Slimbook",
+            "inches": "15.6",
+            "stock": true,
+            "price":
+            {
+                "cost": "1949",
+                "currency": "$",
+                "discount": null
+            },
+            "internal_info": null,
+            "slogan": "We've proposed 2 slogans: 'Slimbook Titan: Unleash Power in Every Pixel' OR 'Slimbook Titan: Powerhouse Performance'",
+            "characteristics": null
+        }
+        {
+            "type": "tablet",
+            "name": "Matepad",
+            "company": "Huawei",
+            "inches": "13",
+            "stock": false,
+            "price":
+            {
+                "cost": null,
+                "currency": "€",
+                "discount": null
+            },
+            "internal_info": null,
+            "slogan": null,
+            "characteristics": null
+        }
+        {
+            "type": "smartphone",
+            "name": "P50 Pocket",
+            "company": "Huawei",
+            "inches": "9",
+            "stock": true,
+            "price":
+            {
+                "cost": "999",
+                "currency": "€",
+                "discount": "3%"
+            },
+            "internal_info": null,
+            "slogan": null,
+            "characteristics": {
+                "battery": "5000mhA battery",
+                "screen": "Super AMOLED Plus",
+                "connector": "USB-C"
+            }
+        }
+    ]
+}
