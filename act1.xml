@@ -4,11 +4,11 @@
 		<prod>
 			<codiprod>1</codiprod>
 			<nom categoria="solanacies">petunia</nom>
-			<descripcio>flor rosa </descripcio>
+			<descripcio>Planta ornamental de flors vistoses, ideal per a jardins i balcons</descripcio>
 			<preu estoc="40">25</preu>
-			<floracio> </floracio>
-			<mida></mida>
-			<rec></rec>
+			<floracio>Primavera i estiu</floracio>
+			<mida>Fins a 30 cm d'altura</mida>
+			<rec>Regular; mantenir el sòl humit però sense entollaments</rec>
 			<img>
 				<url>
 					https://espores.org/wp-content/uploads/media/k2/items/src/c987a1b31fd3f1f08322280ca0954f48.jpg
@@ -18,8 +18,11 @@
 		<prod>
 			<codiprod>2</codiprod>
 			<nom categoria="suculenta">aloe vera</nom>
-			<descripcio>Planta carnosa amb punxes laterals</descripcio>
+			<descripcio>Suculenta medicinal amb gel beneficiós per a la pell</descripcio>
 			<preu estoc="300">40</preu>
+			<floracio>Primavera (en climes adequats)</floracio>
+			<mida>Fins a 60-100 cm d'altura</mida>
+			<rec>Escàs; cada 2-3 setmanes, deixant assecar el substrat entre regs</rec>
 			<img>
 				<url>
 				https://www.kew.org/sites/default/files/styles/original/public/2020-04/Aloe_Vera.jpg.webp?itok=nuAtuuf1
@@ -29,8 +32,11 @@
 		<prod>
 			<codiprod>3</codiprod>
 			<nom categoria="aracies">diefembaquia</nom>
-			<descripcio>fulles grans i bicolor</descripcio>
+			<descripcio>Planta d'interior amb fulles decoratives, però tòxica</descripcio>
 			<preu estoc="18">15</preu>
+			<floracio>Poc freqüent en interiors</floracio>
+			<mida>Fins a 30 cm d'altura</mida>
+			<rec>Regular: mantenir el sòl humit però sense entollaments</rec>
 			<img>
 				<url>
 					https://www.picturethisai.com/image-handle/website_cmsname/image/1080/348113451608342528.jpeg?x-oss-process=image/format,webp/resize,s_300&v=1.0
@@ -39,8 +45,8 @@
 		</prod>
 		<prod>
 			<codiprod>4</codiprod>
-			<nom categoria="papaveracies">amapola</nom>
-			<descripcio>petals fins i vermells</descripcio>
+			<nom categoria="papaveracies">rosella</nom>
+			<descripcio>Planta silvestre de flors vermelles i llavors comestibles</descripcio>
 			<preu estoc="29">37</preu>
 			<img>
 				<url>
@@ -51,7 +57,7 @@
 		<prod>
 			<codiprod>5</codiprod>
 			<nom categoria="lamiacies">albahaca</nom>
-			<descripcio>planta aromatica per ús culinari</descripcio>
+			<descripcio>Herba aromàtica usada a la cuina mediterrània</descripcio>
 			<preu estoc="9">18</preu>
 			<img>
 				<url>
@@ -62,7 +68,7 @@
 		<prod>
 			<codiprod>6</codiprod>
 			<nom categoria="asparagacies">jacint</nom>
-			<descripcio>bulb floral normalment blau amb petites flors</descripcio>
+			<descripcio>Planta bulbosa amb flors perfumades de colors vius</descripcio>
 			<preu estoc="16">25</preu>
 			<img>
 				<url>
