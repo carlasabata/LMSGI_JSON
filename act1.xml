@@ -35,8 +35,8 @@
 			<descripcio>Planta d'interior amb fulles decoratives, però tòxica</descripcio>
 			<preu estoc="18">15</preu>
 			<floracio>Poc freqüent en interiors</floracio>
-			<mida>Fins a 30 cm d'altura</mida>
-			<rec>Regular: mantenir el sòl humit però sense entollaments</rec>
+			<mida>Fins a 1-2 m en interiors</mida>
+			<rec>Moderat; regar quan el substrat estigui sec</rec>
 			<img>
 				<url>
 					https://www.picturethisai.com/image-handle/website_cmsname/image/1080/348113451608342528.jpeg?x-oss-process=image/format,webp/resize,s_300&v=1.0
@@ -48,6 +48,9 @@
 			<nom categoria="papaveracies">rosella</nom>
 			<descripcio>Planta silvestre de flors vermelles i llavors comestibles</descripcio>
 			<preu estoc="29">37</preu>
+			<floracio>Primavera</floracio>
+			<mida>Fins a 50-70 cm d'altura</mida>
+			<rec>Escàs; tolera sòls secs</rec>
 			<img>
 				<url>
 					https://img.freepik.com/fotos-premium/flor-amapola-opio-latin-papaver-somniferum-es-amapola-flor-roja_610882-6324.jpg
@@ -59,6 +62,9 @@
 			<nom categoria="lamiacies">albahaca</nom>
 			<descripcio>Herba aromàtica usada a la cuina mediterrània</descripcio>
 			<preu estoc="9">18</preu>
+			<floracio>Estiu (sovint espoda per evitar-la)</floracio>
+			<mida>Fins a 30-60 cm d'altura</mida>
+			<rec>Regular; mantenir el substrat humit però ben drenat</rec>
 			<img>
 				<url>
 					https://www.vestabarcelona.com/content/images/size/w1304/format/webp/2024/08/cuidadosdelaalbahacaenmaceta.jpg
@@ -70,6 +76,9 @@
 			<nom categoria="asparagacies">jacint</nom>
 			<descripcio>Planta bulbosa amb flors perfumades de colors vius</descripcio>
 			<preu estoc="16">25</preu>
+			<floracio>Primavera</floracio>
+			<mida>Fins a 20-30 cm d'altura</mida>
+			<rec>Moderat; regar quan el substrat estigui lleugerament sec</rec>
 			<img>
 				<url>
 					https://st3.depositphotos.com/18636912/31811/i/450/depositphotos_318117694-stock-photo-large-flower-bed-with-colorful.jpg
