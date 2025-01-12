@@ -1,0 +1,68 @@
+{
+    "pokemons":[
+        {
+            "identificador": "",
+            "nombre": "Bulbasaur",
+            "tipos": {"": "","": ""},
+            "peso": {"": "13.0", "": "kg" },
+            "altura": {"": "1.0", "": "m"},
+            "estadísticas del Pokéathlon": {
+                "velocidad": "",
+                "fortaleza": "",
+                "preciosión": "",
+                "resistencia": ""
+            },
+            "movimientos": [
+                {
+                    "nombre": "",
+                    "descripción": "",
+                    "poténcia": "",
+                    "contacto": ""
+                }
+                {
+                    "nombre": "",
+                    "descripción": "",
+                    "poténcia": "",
+                    "contacto": ""
+                }
+            ],
+            "evoluciones": [
+                {"nombre": "Ivysaur", "nivel": "16"}
+                {"nombre": "Venusaur", "nivel": "32"}
+            ],
+            "imagen": ""
+        }
+        {
+            "identificador": "",
+            "nombre": "Bulbasaur",
+            "tipos": {"": "planta","": "veneno"},
+            "peso": {"": "6.9", "": "kg" },
+            "altura": {"": "0.7", "": "m"},
+            "estadísticas del Pokéathlon": {
+                "velocidad": "",
+                "fortaleza": "",
+                "preciosión": "",
+                "resistencia": ""
+            },
+            "movimientos": [
+                {
+                    "nombre": "",
+                    "descripción": "",
+                    "poténcia": "",
+                    "contacto": ""
+                }
+                {
+                    "nombre": "",
+                    "descripción": "",
+                    "poténcia": "",
+                    "contacto": ""
+                }
+            ],
+            "evoluciones": [
+                {"nombre": "Ivysaur", "nivel": "16"}
+                {"nombre": "Venusaur", "nivel": "32"}
+            ],
+            "imagen": ""
+        }
+    ]
+}
