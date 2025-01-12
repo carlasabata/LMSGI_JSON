@@ -1,68 +1,65 @@
 {
     "pokemons":[
         {
-            "identificador": "",
+            "identificador": "0001",
             "nombre": "Bulbasaur",
-            "tipos": {"": "","": ""},
-            "peso": {"": "13.0", "": "kg" },
-            "altura": {"": "1.0", "": "m"},
+            "tipos": ["planta", "veneno"],
+            "peso": {"cant": "13.0", "medida": "kg" },
+            "altura": {"cant": "1.0", "medida": "m"},
             "estadísticas del Pokéathlon": {
-                "velocidad": "",
-                "fortaleza": "",
-                "preciosión": "",
-                "resistencia": ""
+                "velocidad": "3",
+                "fortaleza": "3",
+                "preciosión": "4",
+                "resistencia": "4"
             },
             "movimientos": [
                 {
-                    "nombre": "",
-                    "descripción": "",
-                    "poténcia": "",
-                    "contacto": ""
+                    "nombre": "Desarrollo",
+                    "descripción": "Movimiento de tipo normal introducido en la primera generación",
+                    "poténcia": null,
+                    "contacto": false
                 }
                 {
-                    "nombre": "",
-                    "descripción": "",
-                    "poténcia": "",
-                    "contacto": ""
+                    "nombre": "Somnífero",
+                    "descripción": "Movimiento de tipo planta introducido en la primera generación",
+                    "poténcia": null,
+                    "contacto": false
                 }
             ],
             "evoluciones": [
                 {"nombre": "Ivysaur", "nivel": "16"}
                 {"nombre": "Venusaur", "nivel": "32"}
             ],
-            "imagen": ""
+            "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/4/43/latest/20190406170624/Bulbasaur.png"
         }
         {
-            "identificador": "",
-            "nombre": "Bulbasaur",
-            "tipos": {"": "planta","": "veneno"},
-            "peso": {"": "6.9", "": "kg" },
-            "altura": {"": "0.7", "": "m"},
+            "identificador": "0138",
+            "nombre": "Omanyte",
+            "tipos": ["roca", "agua"],
+            "peso": {"cant": "7.5", "medida": "kg" },
+            "altura": {"cant": "0.4", "medida": "m"},
             "estadísticas del Pokéathlon": {
-                "velocidad": "",
-                "fortaleza": "",
-                "preciosión": "",
-                "resistencia": ""
+                "velocidad": "3",
+                "fortaleza": "3",
+                "preciosión": "4",
+                "resistencia": "4"
             },
             "movimientos": [
                 {
-                    "nombre": "",
-                    "descripción": "",
-                    "poténcia": "",
-                    "contacto": ""
+                    "nombre": "Ataque arena",
+                    "descripción": "Movimiento de tipo tierra introducido en la primera generción",
+                    "poténcia": null,
+                    "contacto": false
                 }
                 {
-                    "nombre": "",
-                    "descripción": "",
-                    "poténcia": "",
-                    "contacto": ""
+                    "nombre": "Protección",
+                    "descripción": "Movimiento de tipo normal introducido en la segunda generación",
+                    "poténcia": null,
+                    "contacto": false
                 }
             ],
-            "evoluciones": [
-                {"nombre": "Ivysaur", "nivel": "16"}
-                {"nombre": "Venusaur", "nivel": "32"}
-            ],
-            "imagen": ""
+            "evoluciones": {"nombre": "Omastar", "nivel": "40"},
+            "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/a/a4/latest/20230627205748/Omanyte.png"
         }
     ]
 }
